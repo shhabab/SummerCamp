@@ -177,7 +177,7 @@ class My_LogisticRegression(object):
 
 
 
-path = r'D:\\Summercamp\\LogisticRegression\\'
+path = r'D:\\Summercamp\\week1\\LogisticRegression\\'
 
 
 if __name__ == '__main__':
